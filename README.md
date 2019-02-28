@@ -1,7 +1,7 @@
               Проекты и дополнения
 $ git log
 commit ca82a6dff817ec66f44342007202690a93763949
-Author: Scott Chacon <schacon@gee-mail.com>
+Author: Scott Chacon <csesergey@gmail.com>
 Date:   Mon Feb 17:02:28 2019 -0100
 
     изменил номер версии
