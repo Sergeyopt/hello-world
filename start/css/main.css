@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    display: inline;            
+    border: 1px solid red;    
+}
+
+header {    
+    display: flex;
+}
+
+.col-1 {
+    display: flex;
+
+}
+
